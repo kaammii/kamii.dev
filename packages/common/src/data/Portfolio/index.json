@@ -1,0 +1,348 @@
+{
+  "SOCIAL_PROFILES": [
+    {
+      "icon": "",
+      "url": ""
+    }
+  ],
+  "MENU_ITEMS": [
+    {
+      "label": "ME",
+      "path": "#banner_section",
+      "offset": "0"
+    },
+    {
+      "label": "PROJECT",
+      "path": "#portfolio_section",
+      "offset": "0"
+    },
+    {
+      "label": "WHY ME?",
+      "path": "#process_section",
+      "offset": "0"
+    }
+  ],
+  "AWARDS": [
+    {
+      "awardLogo": "../../assets/image/portfolio/award-1.png",
+      "awardName": "Free Software Advice",
+      "awardDetails": "Top Rated App Development Companies USA",
+      "awardeeLogo": "../../assets/image/portfolio/awardee-1.png",
+      "awardeeName": "Awardee",
+      "date": "The Jury 2018"
+    },
+    {
+      "awardLogo": "../../assets/image/portfolio/award-2.png",
+      "awardName": "Free Software Advice",
+      "awardDetails": "Top Rated App Development Companies USA",
+      "awardeeLogo": "../../assets/image/portfolio/awardee-2.png",
+      "awardeeName": "Awardee",
+      "date": "The Jury 2018"
+    },
+    {
+      "awardLogo": "../../assets/image/portfolio/award-3.png",
+      "awardName": "Free Software Advice",
+      "awardDetails": "Top Rated App Development Companies USA",
+      "awardeeLogo": "../../assets/image/portfolio/awardee-3.png",
+      "awardeeName": "Awardee",
+      "date": "The Jury 2018"
+    },
+    {
+      "awardLogo": "../../assets/image/portfolio/award-4.png",
+      "awardName": "Free Software Advice",
+      "awardDetails": "Top Rated App Development Companies USA",
+      "awardeeLogo": "../../assets/image/portfolio/awardee-4.png",
+      "awardeeName": "Awardee",
+      "date": "The Jury 2018"
+    }
+  ],
+  "PORTFOLIO_SHOWCASE": [
+    {
+      "title": "IP Global Company Website",
+      "description": "IP Global is a telecom service provider for SMB and enterprise clients with over 20 years of experience.",
+      "image": "../../assets/image/portfolio/ipgn.png",
+      "link": "https://www.ipglobal.net/",
+      "featuredIn": "AWWWARDS",
+      "featuredLink": "#",
+      "view": "4.5K",
+      "love": "1.5K",
+      "feedback": "1.2K",
+      "buildWith": [
+        {
+          "content": "React JS"
+        },
+        {
+          "content": "Next JS"
+        },
+        {
+          "content": "Styled Component"
+        }
+      ]
+    },
+    {
+      "title": "Family Networks",
+      "description": "Family oriented telecommunications company focused on securing communications for all members of your family.",
+      "image": "../../assets/image/portfolio/family.jpg",
+      "link": "https://dev.family.net/",
+      "featuredIn": "",
+      "featuredLink": "#",
+      "view": "8.5K",
+      "love": "5.5K",
+      "feedback": "3.2K",
+      "buildWith": [
+        {
+          "content": "React Native"
+        },
+        {
+          "content": "Firebase"
+        },
+        {
+          "content": "Styled Component"
+        }
+      ]
+    },
+    {
+      "title": "Gemsby™ | Shop for Unique Gems & Jewelry From Independent Sellers",
+      "description": "To empower diverse buyers and sellers under the umbrella of a global marketplace for gems & jewelry, related items and complimentary services.",
+      "image": "../../assets/image/portfolio/gemsby.jpeg",
+      "link": "https://gemsby.com/",
+      "featuredIn": "AWWWARDS",
+      "featuredLink": "#",
+      "view": "4.5K",
+      "love": "1.5K",
+      "feedback": "1.2K",
+      "buildWith": [
+        {
+          "content": "React JS"
+        },
+        {
+          "content": "Next JS"
+        },
+        {
+          "content": "Styled Component"
+        }
+      ]
+    },
+    {
+      "title": "Leveler, mobile app",
+      "description": "Free Estimating, Invoicing, and Job Management tool for Contractors.",
+      "image": "../../assets/image/portfolio/lvlr.png",
+      "link": "https://www.leveler.com/",
+      "featuredIn": "AppStore",
+      "featuredLink": "#",
+      "view": "8.5K",
+      "love": "5.5K",
+      "feedback": "3.2K",
+      "buildWith": [
+        {
+          "content": "React Native"
+        },
+        {
+          "content": "Firebase"
+        },
+        {
+          "content": "Styled Component"
+        }
+      ]
+    },
+    {
+      "title": "TCAP.io",
+      "description": "TCAP - Search for phone numbers. Carrier Info. Carrier Info. Number. Carrier Name. Carrier Type. Switch Name. Switch Type. CLLI. Country. LATA. Rate Center.",
+      "image": "../../assets/image/portfolio/tcap.png",
+      "link": "https://tcap.io/",
+      "featuredIn": "AppStore",
+      "featuredLink": "#",
+      "view": "8.5K",
+      "love": "5.5K",
+      "feedback": "3.2K",
+      "buildWith": [
+        {
+          "content": "React Native"
+        },
+        {
+          "content": "Firebase"
+        },
+        {
+          "content": "Styled Component"
+        }
+      ]
+    }
+  ],
+  "PROCESS_STEPS": [
+    {
+      "image": "../../assets/image/portfolio/step-1.png",
+      "title": "1. Research",
+      "description": "Work with you to understand user’s stories and validate your idea."
+    },
+    {
+      "image": "../../assets/image/portfolio/step-2.png",
+      "title": "2. Develop",
+      "description": "Expanding on the insights gained, work with you to develop the product."
+    },
+    {
+      "image": "../../assets/image/portfolio/step-3.png",
+      "title": "3. Deploy",
+      "description": "With my knowledge of AWS, I can help with serverless deployments."
+    }
+  ],
+  "SERVICE_LIST": [
+    {
+      "title": "🔥 Front End Development",
+      "listItems": [
+        {
+          "content": "React"
+        },
+        {
+          "content": "React Native"
+        },
+        {
+          "content": "Nextjs"
+        },
+        {
+          "content": "Gatsby"
+        },
+        {
+          "content": "Styled components"
+        },
+        {
+          "content": "Material ui"
+        }
+      ]
+    },
+    {
+      "title": "🐍 Backend Development",
+      "listItems": [
+        {
+          "content": "Nodejs (Express)"
+        },
+        {
+          "content": "Python"
+        }
+      ]
+    },
+    {
+      "title": "🔋 Databases",
+      "listItems": [
+        {
+          "content": "Postgres"
+        },
+        {
+          "content": "Mysql"
+        },
+        {
+          "content": "MongoDB"
+        },
+        {
+          "content": "Dynamodb"
+        }
+      ]
+    },
+    {
+      "title": "☁️ Cloud",
+      "listItems": [
+        {
+          "content": "AWS Amplify Console"
+        },
+        {
+          "content": "AWS CodePipeline"
+        },
+        {
+          "content": "AWS CodeCommit"
+        },
+        {
+          "content": "AWS Amplify"
+        },
+        {
+          "content": "AWS Lambda functions"
+        }
+      ]
+    }
+  ],
+  "SKILLS": [
+    {
+      "title": "Graphic Design",
+      "description": "Aristotle maintained the sharp distinction between science and the practical",
+      "icon": "../../assets/image/portfolio/skill-1.svg",
+      "successRate": "90"
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Aristotle maintained the sharp distinction between science and the practical",
+      "icon": "../../assets/image/portfolio/skill-2.svg",
+      "successRate": "85"
+    },
+    {
+      "title": "Web Application",
+      "description": "Aristotle maintained the sharp distinction between science and the practical",
+      "icon": "../../assets/image/portfolio/skill-3.svg",
+      "successRate": "80"
+    },
+    {
+      "title": "Mobile Application",
+      "description": "Aristotle maintained the sharp distinction between science and the practical",
+      "icon": "../../assets/image/portfolio/skill-4.svg",
+      "successRate": "70"
+    }
+  ],
+  "CLIENTS": [
+    {
+      "image": "../../assets/image/portfolio/client-1.png",
+      "title": "Microsoft"
+    },
+    {
+      "image": "../../assets/image/portfolio/client-2.png",
+      "title": "Airbnb"
+    },
+    {
+      "image": "../../assets/image/portfolio/client-3.png",
+      "title": "Adidas"
+    },
+    {
+      "image": "../../assets/image/portfolio/client-4.png",
+      "title": "IBM"
+    },
+    {
+      "image": "../../assets/image/portfolio/client-5.png",
+      "title": "Amazon"
+    },
+    {
+      "image": "../../assets/image/portfolio/client-6.png",
+      "title": "Google"
+    }
+  ],
+  "TESTIMONIAL": [
+    {
+      "image": "../../assets/image/portfolio/client-avatar-1.jpg",
+      "review": "Another quality React-based product from RedQ Team. Manage to turn highly complex tech into simple components.",
+      "name": "Jon Doe",
+      "designation": "Founder & CEO",
+      "twitterProfile": "https://twitter.com/redqinc",
+      "organization": "@Tonquin",
+      "organizationURL": "https://redq.io/"
+    },
+    {
+      "image": "../../assets/image/portfolio/client-avatar-2.jpg",
+      "review": "Another quality React-based product from RedQ Team. Manage to turn highly complex tech into simple components.",
+      "name": "Jeny Doe",
+      "designation": "Co-Founder & CTO",
+      "twitterProfile": "https://twitter.com/redqinc",
+      "organization": "@Tonquin",
+      "organizationURL": "https://redq.io/"
+    },
+    {
+      "image": "../../assets/image/portfolio/client-avatar-3.jpg",
+      "review": "Another quality React-based product from RedQ Team. Manage to turn highly complex tech into simple components.",
+      "name": "Jon Doe",
+      "designation": "Co-Founder & COO",
+      "twitterProfile": "https://twitter.com/redqinc",
+      "organization": "@Tonquin",
+      "organizationURL": "https://redq.io/"
+    }
+  ],
+  "FOOTER_MENU": [
+    {
+      "label": "Contact",
+      "path": "#"
+    }
+  ]
+}
