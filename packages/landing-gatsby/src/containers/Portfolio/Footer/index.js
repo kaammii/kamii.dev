@@ -5,14 +5,11 @@ import { Icon } from 'react-icons-kit';
 import Box from 'common/src/components/Box';
 import Text from 'common/src/components/Text';
 import Heading from 'common/src/components/Heading';
-import Button from 'common/src/components/Button';
-import Input from 'common/src/components/Input';
 import Container from 'common/src/components/UI/Container';
 import SocialProfile from '../SocialProfile';
 
 import {
   FooterWrapper,
-  Newsletter,
   FooterNav,
   FooterNavItem,
 } from './footer.style';

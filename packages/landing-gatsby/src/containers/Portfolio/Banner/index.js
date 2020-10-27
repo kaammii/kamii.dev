@@ -5,13 +5,11 @@ import Icon from 'react-icons-kit';
 import Box from 'common/src/components/Box';
 import Text from 'common/src/components/Text';
 import Heading from 'common/src/components/Heading';
-import Image from 'common/src/components/Image';
 import Container from 'common/src/components/UI/Container';
 import SocialProfile from '../SocialProfile';
 import BannerWrapper from './banner.style';
 
 import { cornerDownRight } from 'react-icons-kit/feather/cornerDownRight';
-import PersonImage from 'common/src/assets/image/portfolio/person.png';
 
 const BannerSection = ({
   row,

@@ -2,24 +2,16 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
 import Image from 'gatsby-image';
-import Tabs, { TabPane } from 'rc-tabs';
-import TabContent from 'rc-tabs/lib/TabContent';
-import ScrollableInkTabBar from 'rc-tabs/lib/ScrollableInkTabBar';
 import Box from 'common/src/components/Box';
 import Text from 'common/src/components/Text';
 import Heading from 'common/src/components/Heading';
 import Container from 'common/src/components/UI/Container';
-import GlideCarousel from 'common/src/components/GlideCarousel';
-import GlideSlide from 'common/src/components/GlideCarousel/glideSlide';
 import {
   PortfolioShowcaseWrapper,
   PortfolioShowcaseItem,
   PortfolioLink,
   BuiltWith,
-  PortfolioMeta,
-  MetaItem,
 } from './portfolioShowcase.style';
-import { PrevButton, NextButton } from '../portfolio.style';
 
 const PortfolioShowcase = ({
   sectionWrapper,
@@ -55,14 +47,6 @@ const PortfolioShowcase = ({
     }
   `);
 
-  //Carousel Options
-  const carouselOptions = {
-    type: 'carousel',
-    perView: 1,
-    gap: 0,
-    animationDuration: 900,
-  };
-  console.log('portfolio', Data);
   return (
     <Box {...sectionWrapper} as="section" id="portfolio_section">
       <Container noGutter mobileGutter width="1200px">
