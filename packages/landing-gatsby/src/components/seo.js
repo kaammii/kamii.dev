@@ -21,7 +21,7 @@ function SEO({ description, lang, meta, keywords, title }) {
             meta={[
               {
                 name: `description`,
-                content: metaDescription,
+                content: 'Specializing in React, React Native, cloud-enabled and cross-platform application development.',
               },
               {
                 property: `og:title`,
@@ -41,7 +41,7 @@ function SEO({ description, lang, meta, keywords, title }) {
               },
               {
                 name: `twitter:card`,
-                content: `summary`,
+                content: `summary_large_image`,
               },
               {
                 name: `twitter:creator`,
